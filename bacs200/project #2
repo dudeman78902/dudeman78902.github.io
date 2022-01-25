@@ -2,14 +2,28 @@
 
 <html>
 	<head>
-		<title> Landing Page for my Project #2 </title>
+			<title> Mason Website </title>
 	</head>
 		<body>
-    
 			<h1>Welcome to my weebsite!</h1>
+			
 			<h2> Hopefully I doin the right thing </h2>
 			
-			<a href="bacs200idex.html">bacs200 </a>
+			<h3>
+				<a href="bacs200profile.html"> bacs200 </a>
+			</h3>
+			
+			<h3> 
+				<a href="bacs200inspire.html"> Inspire Me </a>
+			</h3>	
+			
+			<h3>
+				<a href="bacs200template.html"> Template </a>
+			</h3>	
+			
+			<h3>
+				<a href="index.html"> Website Index </a>
+			</h3>
 		</body> 
 
 </html>
