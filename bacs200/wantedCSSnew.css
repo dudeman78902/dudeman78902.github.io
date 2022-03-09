@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: beige;
+     }
+
+header {
+	padding: 0px;
+	border: 2px solid blue;
+	text-align: center;
+	background: pink;
+	color: white;
+	font-size:30px;
+	margin:10px 100px
+	space
+       }
+
+footer {
+	text-align: center;	
+       }
+
+#headerh2 {
+	text-size: 15px;
+	color: black;
+         }
+
+#wantedforlist{
+	float:right;
+	margin:50px 70px;
+	font-size: 25px;
+	left: 50px
+         }
+
+#wordsbelowheader {
+	text-align: center; 
+	font: oblique;
+	font-size: 50px
+   }
+
+main {
+	margin:0
+}
+
+img {
+	margin: 40px;
+}
