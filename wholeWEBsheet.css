@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*
+font-family: 'League Spartan', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Open Sans', sans-serif;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&family=Nunito:wght@300&family=Open+Sans&display=swap');
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: lightcyan;
+}
+
+h1{
+	
+}
+
+h2{
+	font-family: 'Nunito', sans-serif;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+}
