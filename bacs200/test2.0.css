@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+
+body {
+	background-color: aquamarine;
+}
+
+p {
+	font-family: 'PT Serif', serif;
+}
+
+h1 {
+	
+	font-family: 'PT Serif', serif;
+}
+
+h2 {
+	font-family: 'PT Serif', serif;
+	
+}
