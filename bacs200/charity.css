@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background-color: lightcoral;
+}
+
+
+#plswork {
+	text-align: center;
+	color: white;
+}
+
+#testimg {
+	float: center;
+}
+	
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+	padding-top: 0;
+	}
+
+.firstp {
+	margin-left: 40px;
+	font-size: 30px;
+	color: white;
+}
+
+.secondp {
+	margin-left: 30px;
+	font-size: 25px;
+	color: black;
+	font-style: italic;
+	text-align: center;
+}
+
+table, th, td {
+	border: 1px solid;
+	font-size: 20px; 
+}
+
+.thirdp {
+	float: right;
+	padding-top: 0px;
+	font-size: 20px;
+	margin-right: 50px;
+	margin-bottom: 25px; 
+	margin-top: -75px;
+	color: white;
+	font-size: 22px;
+}
+.fourthp {
+	float: right;
+	margin-top: 100px;
+	margin-right: -10px;
+	margin-bottom: 25px; 
+	font-size: 20px;
+	color: white;
+}
+.footer {
+	margin-left: 30px;
+	margin-top: 20px;
+}
