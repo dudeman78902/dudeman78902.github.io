@@ -1,0 +1,36 @@
+   
+body {
+	background: #1BB2CB;
+}
+
+#midheader {
+	font-size: 10;
+	color: white;
+}
+
+#pushinp {
+	font-size: 25px;
+}
+
+header {
+	padding: 0px;
+	border: 2px solid blue;
+	text-align: center;
+	background: pink;
+	color: white;
+	font-size:30px;
+	margin:10px 100px
+	space
+       }
+
+footer {
+	text-align: center;	
+}
+
+#wantedforlist{
+
+}
+
+img {
+	float:right;
+}
