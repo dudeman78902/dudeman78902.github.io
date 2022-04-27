@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: lightcyan;
+}
+
+h1{
+	
+}
+
+h2{
+	font-family: 'Nunito', sans-serif;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.carousel-item
+            {
+                height:500px;
+            }
+            .carousel-item img
+            {
+                height: 100%;
+            }
